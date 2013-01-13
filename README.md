@@ -29,7 +29,7 @@ Usage
 	</div>
 ```
 
-4. Call $('#mySlidey').slidey();
+4. Call `$('#mySlidey').slidey();`
 
 
 Options
