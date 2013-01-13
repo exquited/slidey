@@ -2,7 +2,7 @@
   $.fn.slidey = function(options) {
 	  
 		// some settings for starters, in future there should be more...
-	  var $settings = $.extend({
+		var $settings = $.extend({
       'autoPlay': true,
       'pauseOnClick': true,
       'interval': 5000
