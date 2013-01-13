@@ -17,16 +17,17 @@ Usage
 =====
 
 1. Download and move to your desired location
-2. Add slidey.js and slidey.css to the <head>-portion of your HTML page
+2. Add slidey.js and slidey.css to the `<head>`-portion of your HTML page
 3. Add this markup for the slider:
-
-<div id="mySlidey" class="slidey">
-	<ul>
-		<li><img src="pic1.jpg" alt=""></li>
-		<li><img src="pic2.jpg" alt=""></li>
-		<li><img src="pic3.jpg" alt=""></li>
-	</ul>
-</div>
+```
+	<div id="mySlidey" class="slidey">
+		<ul>
+			<li><img src="pic1.jpg" alt=""></li>
+			<li><img src="pic2.jpg" alt=""></li>
+			<li><img src="pic3.jpg" alt=""></li>
+		</ul>
+	</div>
+```
 
 4. Call $('#mySlidey').slidey();
 
