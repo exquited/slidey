@@ -25,6 +25,7 @@ Usage
 			<li><img src="pic1.jpg" alt=""></li>
 			<li><img src="pic2.jpg" alt=""></li>
 			<li><img src="pic3.jpg" alt=""></li>
+			<li class="video"><iframe src="http://player.vimeo.com/video/52123602" width="100%" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></li>
 		</ul>
 	</div>
 ```
