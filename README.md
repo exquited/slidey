@@ -17,7 +17,7 @@ Usage
 =====
 
 1. Download and move to your desired location
-2. Add slidey.js and slidey.css to the `<head>`-portion of your HTML page
+2. Add slidey.js, modernizr.min.js and slidey.css to the `<head>`-portion of your HTML page
 3. Add this markup for the slider:
 ```
 	<div id="mySlidey" class="slidey">
